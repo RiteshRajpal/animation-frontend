@@ -106,9 +106,19 @@ export default {
 				'accordion-down': 'accordion-down 0.2s ease-out',
 				'accordion-up': 'accordion-up 0.2s ease-out',
 				'fade-up': 'fade-up 0.8s ease-out',
-				'gradient-shift': 'gradient-shift 8s ease infinite',
-				'float': 'float 6s ease-in-out infinite',
-				'pulse-glow': 'pulse-glow 2s ease-in-out infinite'
+				'gradient-shift': 'gradient-shift 12s ease infinite',
+				'float': 'float 8s ease-in-out infinite',
+				'pulse-glow': 'pulse-glow 2s ease-in-out infinite',
+				'rotate-slow': 'rotate-slow 20s linear infinite',
+				'bounce-in': 'bounce-in 1s cubic-bezier(0.68, -0.55, 0.265, 1.55)',
+				'slide-left': 'slide-in-left 0.8s ease-out',
+				'slide-right': 'slide-in-right 0.8s ease-out',
+				'wave': 'wave 2s ease-in-out infinite',
+				'particle': 'particle-float 10s ease-in-out infinite',
+				'morphing': 'morphing 20s ease-in-out infinite',
+				'typewriter': 'typewriter 3s steps(40) 1s both',
+				'blink': 'blink 1s step-end infinite',
+				'shake': 'shake 0.5s ease-in-out'
 			}
 		}
 	},
